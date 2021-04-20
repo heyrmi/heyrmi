@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RMi
+- 👋 Hi, I’m @Rahul
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN stack development
 - 💞️ I’m looking to collaborate on Web Dev projects
