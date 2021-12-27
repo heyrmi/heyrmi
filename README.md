@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development with Java
+- 🌱 I’m currently learning Full Stack Web Development with Spring Boot as Backend 
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me : Twitter - hey_rmi
 
