@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development with Django as Backend and React as Frontend.
+- 🌱 I’m currently developing Full Stack Web Applications with SpringBoot & React.
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me : Twitter - hey_rmi
 
