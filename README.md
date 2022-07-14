@@ -1,3 +1,4 @@
+#### Info
 - 👋 Hi, I’m @Rahul
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as SDET-1 
@@ -7,7 +8,7 @@
 - 🐳 Docker-Hub Profile: [Docker-Hub](https://hub.docker.com/u/heyrmi)
 
 
-## [LeetCode](https://leetcode.com/heyrmi)
+#### [LeetCode](https://leetcode.com/heyrmi)
 [![Rahul's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=heyrmi)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
