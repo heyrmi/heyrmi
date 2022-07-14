@@ -7,11 +7,8 @@
 - 🐳 Docker-Hub Profile: [Docker-Hub](https://hub.docker.com/u/heyrmi)
 
 
-
-### LeetCode Stats
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=heyrmi&theme=dark" width="400"/>
-</a>
+## [LeetCode](https://leetcode.com/heyrmi)
+[![Rahul's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=heyrmi)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
 heyrmi/heyrmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
