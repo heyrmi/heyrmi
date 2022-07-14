@@ -6,6 +6,11 @@
 - 📝 If you are looking for the resume, here it is : [Resume](https://github.com/heyrmi/Resume)
 - 🐳 Docker-Hub Profile: [Docker-Hub](https://hub.docker.com/u/heyrmi)
 
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=heyrmi" width="400"/>
+</a>
+
 <!---
 heyrmi/heyrmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
