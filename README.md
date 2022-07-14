@@ -7,8 +7,10 @@
 - 🐳 Docker-Hub Profile: [Docker-Hub](https://hub.docker.com/u/heyrmi)
 
 
+
+### LeetCode Stats
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=heyrmi" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=heyrmi&theme=dark" width="400"/>
 </a>
 
 <!---
