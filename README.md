@@ -12,7 +12,7 @@
 
   
 #### [Github](https://github.com/heyrmi?tab=repositories)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrmi&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrmi&layout=compact)
 
   
 #### [LeetCode](https://leetcode.com/heyrmi)
