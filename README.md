@@ -1,19 +1,7 @@
-#### Info
-- 👋 Hi, I’m [Rahul](https://heyrmi.github.io/)
-- 💻 I’m currently working as SDET 
-- 🫱🏻‍🫲🏼 I’m looking to collaborate on Java/Go Projects
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/heyrmi/), [Twitter](https://twitter.com/hey_rmi) 
+# Hi! I am Rahul.
+A software test engineer based in Noida, 🇮🇳 India.
 
-<br />
-  
-<details>
-<summary>More...</summary>
-<br />
+#### Skills
 
-  
-#### [Github](https://github.com/heyrmi?tab=repositories)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrmi&layout=compact)
-
-  
-#### [LeetCode](https://leetcode.com/heyrmi)
-[![Rahul's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=heyrmi)](https://github.com/KnlnKS/leetcode-stats)
+[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,mysql)](https://skillicons.dev)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev) 
+<br/>
