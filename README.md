@@ -3,5 +3,5 @@ A software test engineer based in Noida, 🇮🇳 India.
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,postman)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,mysql)](https://skillicons.dev)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,jenkins)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=githubactions,postman,mysql)](https://skillicons.dev)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,go,postgres)](https://skillicons.dev)
 <br/>
